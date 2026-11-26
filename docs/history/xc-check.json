@@ -1,0 +1,32 @@
+{
+  "event_id": 3,
+  "native_callback": 25414,
+  "stock_400m_start_markers_verified": true,
+  "stock_race_setup_and_lap_functions_unchanged": true,
+  "stock_wasm_changed_functions": [
+    11366,
+    11368,
+    29844,
+    30092
+  ],
+  "hill_peak_scene_units": 2.775,
+  "old_hill_peak_scene_units": 1.85,
+  "max_grade": 0.118780785691215,
+  "hill_scene_z": [
+    62.0,
+    148.0
+  ],
+  "bale_row_scene_z": [
+    175,
+    65
+  ],
+  "forest_trees": 46,
+  "geometry_continuous": true,
+  "live_race_finish_verified": false,
+  "live_visuals_verified": false,
+  "max_visible_to_collision_surface_error_scene_units": 1.1934357744391305e-06,
+  "native_engine_binary_validated": true,
+  "live_browser_attempt": "Navigation blocked by browser environment (ERR_BLOCKED_BY_ADMINISTRATOR); live race not verified.",
+  "nominal_distance_m": 400,
+  "actual_elevated_path_length_not_measured": true
+}

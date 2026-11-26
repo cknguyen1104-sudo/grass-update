@@ -1,0 +1,11 @@
+{
+  "changed_scene_mesh_renderers": 28,
+  "track_sections": 4,
+  "hill_surface_renderers": 24,
+  "new_texture": "128x128 RGBA32 mipmapped repeat",
+  "new_materials": 2,
+  "all_original_scene_objects_except_28_renderer_material_references_unchanged": true,
+  "all_original_shared_asset_objects_unchanged": true,
+  "geometry_and_physics_unchanged": true,
+  "live_visuals_verified": false
+}

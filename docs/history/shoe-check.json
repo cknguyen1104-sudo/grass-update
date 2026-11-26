@@ -1,0 +1,362 @@
+{
+  "files": {
+    "combined.data": {
+      "existing_slot_index": 7,
+      "same_placeholder": 5000,
+      "triangle_partition_counts": [
+        1067,
+        71,
+        84,
+        26,
+        325
+      ],
+      "native_skinned_mesh_templates": [
+        434,
+        434,
+        391,
+        391,
+        391
+      ],
+      "cloned_scene_objects": 90,
+      "cloned_prefab_objects": 15,
+      "changed_existing_scene_objects": [
+        8737,
+        8824,
+        8952,
+        8984,
+        9112,
+        10174,
+        25026
+      ],
+      "changed_existing_prefab_objects": [
+        1987
+      ],
+      "all_other_objects_unchanged": true
+    },
+    "event600.data": {
+      "existing_slot_index": 7,
+      "same_placeholder": 5000,
+      "triangle_partition_counts": [
+        1067,
+        71,
+        84,
+        26,
+        325
+      ],
+      "native_skinned_mesh_templates": [
+        434,
+        434,
+        391,
+        391,
+        391
+      ],
+      "cloned_scene_objects": 90,
+      "cloned_prefab_objects": 15,
+      "changed_existing_scene_objects": [
+        8737,
+        8824,
+        8952,
+        8984,
+        9112,
+        10174,
+        25026
+      ],
+      "changed_existing_prefab_objects": [
+        1987
+      ],
+      "all_other_objects_unchanged": true
+    },
+    "event600-boxes.data": {
+      "existing_slot_index": 7,
+      "same_placeholder": 5000,
+      "triangle_partition_counts": [
+        1067,
+        71,
+        84,
+        26,
+        325
+      ],
+      "native_skinned_mesh_templates": [
+        434,
+        434,
+        391,
+        391,
+        391
+      ],
+      "cloned_scene_objects": 90,
+      "cloned_prefab_objects": 15,
+      "changed_existing_scene_objects": [
+        8737,
+        8824,
+        8952,
+        8984,
+        9112,
+        10174,
+        25026
+      ],
+      "changed_existing_prefab_objects": [
+        1987
+      ],
+      "all_other_objects_unchanged": true
+    },
+    "event600-no-bales.data": {
+      "existing_slot_index": 7,
+      "same_placeholder": 5000,
+      "triangle_partition_counts": [
+        1067,
+        71,
+        84,
+        26,
+        325
+      ],
+      "native_skinned_mesh_templates": [
+        434,
+        434,
+        391,
+        391,
+        391
+      ],
+      "cloned_scene_objects": 90,
+      "cloned_prefab_objects": 15,
+      "changed_existing_scene_objects": [
+        8737,
+        8824,
+        8952,
+        8984,
+        9112,
+        10174,
+        25026
+      ],
+      "changed_existing_prefab_objects": [
+        1987
+      ],
+      "all_other_objects_unchanged": true
+    },
+    "event400xc.data": {
+      "existing_slot_index": 7,
+      "same_placeholder": 5000,
+      "triangle_partition_counts": [
+        1067,
+        71,
+        84,
+        26,
+        325
+      ],
+      "native_skinned_mesh_templates": [
+        434,
+        434,
+        391,
+        391,
+        391
+      ],
+      "cloned_scene_objects": 90,
+      "cloned_prefab_objects": 15,
+      "changed_existing_scene_objects": [
+        8737,
+        8824,
+        8952,
+        8984,
+        9112,
+        10174,
+        25026
+      ],
+      "changed_existing_prefab_objects": [
+        1987
+      ],
+      "all_other_objects_unchanged": true
+    }
+  },
+  "all_wasm_unchanged": false,
+  "all_course_geometry_unchanged": true,
+  "existing_shoes_unchanged": true,
+  "live_gameplay_verified": false,
+  "native_registration": {
+    "combined.data": {
+      "level0": {
+        "registered_runners": 6,
+        "changed_objects": [
+          26720,
+          26745,
+          26746,
+          26747,
+          26744,
+          26743
+        ]
+      },
+      "sharedassets0.assets": {
+        "registered_runners": 1,
+        "changed_objects": [
+          2729
+        ]
+      }
+    },
+    "event600.data": {
+      "level0": {
+        "registered_runners": 6,
+        "changed_objects": [
+          26720,
+          26745,
+          26746,
+          26747,
+          26744,
+          26743
+        ]
+      },
+      "sharedassets0.assets": {
+        "registered_runners": 1,
+        "changed_objects": [
+          2729
+        ]
+      }
+    },
+    "event600-boxes.data": {
+      "level0": {
+        "registered_runners": 6,
+        "changed_objects": [
+          26720,
+          26745,
+          26746,
+          26747,
+          26744,
+          26743
+        ]
+      },
+      "sharedassets0.assets": {
+        "registered_runners": 1,
+        "changed_objects": [
+          2729
+        ]
+      }
+    },
+    "event600-no-bales.data": {
+      "level0": {
+        "registered_runners": 6,
+        "changed_objects": [
+          26720,
+          26745,
+          26746,
+          26747,
+          26744,
+          26743
+        ]
+      },
+      "sharedassets0.assets": {
+        "registered_runners": 1,
+        "changed_objects": [
+          2729
+        ]
+      }
+    },
+    "event400xc.data": {
+      "level0": {
+        "registered_runners": 6,
+        "changed_objects": [
+          26720,
+          26745,
+          26746,
+          26747,
+          26744,
+          26743
+        ]
+      },
+      "sharedassets0.assets": {
+        "registered_runners": 1,
+        "changed_objects": [
+          2729
+        ]
+      }
+    }
+  },
+  "unlock_check": {
+    "numeric_shoe_category": 4,
+    "mesh_slot": 7,
+    "isolated_cases": 1000
+  },
+  "aligned_mesh_reference_fix": {
+    "combined.data": {
+      "shoe_slot_index": 7,
+      "aligned_offset": 2548,
+      "mesh_reference": [
+        2,
+        5000
+      ],
+      "other_99_slots_match_pre_shoe_build": true,
+      "special_pair_names": [
+        "dragonfly_gold_upper",
+        "dragonfly_navy_mark",
+        "dragonfly_pink_sole",
+        "dragonfly_cream_heel",
+        "dragonfly_dark_spikes"
+      ],
+      "only_changed_object": 25026
+    },
+    "event600.data": {
+      "shoe_slot_index": 7,
+      "aligned_offset": 2548,
+      "mesh_reference": [
+        2,
+        5000
+      ],
+      "other_99_slots_match_pre_shoe_build": true,
+      "special_pair_names": [
+        "dragonfly_gold_upper",
+        "dragonfly_navy_mark",
+        "dragonfly_pink_sole",
+        "dragonfly_cream_heel",
+        "dragonfly_dark_spikes"
+      ],
+      "only_changed_object": 25026
+    },
+    "event600-boxes.data": {
+      "shoe_slot_index": 7,
+      "aligned_offset": 2548,
+      "mesh_reference": [
+        2,
+        5000
+      ],
+      "other_99_slots_match_pre_shoe_build": true,
+      "special_pair_names": [
+        "dragonfly_gold_upper",
+        "dragonfly_navy_mark",
+        "dragonfly_pink_sole",
+        "dragonfly_cream_heel",
+        "dragonfly_dark_spikes"
+      ],
+      "only_changed_object": 25026
+    },
+    "event600-no-bales.data": {
+      "shoe_slot_index": 7,
+      "aligned_offset": 2548,
+      "mesh_reference": [
+        2,
+        5000
+      ],
+      "other_99_slots_match_pre_shoe_build": true,
+      "special_pair_names": [
+        "dragonfly_gold_upper",
+        "dragonfly_navy_mark",
+        "dragonfly_pink_sole",
+        "dragonfly_cream_heel",
+        "dragonfly_dark_spikes"
+      ],
+      "only_changed_object": 25026
+    },
+    "event400xc.data": {
+      "shoe_slot_index": 7,
+      "aligned_offset": 2548,
+      "mesh_reference": [
+        2,
+        5000
+      ],
+      "other_99_slots_match_pre_shoe_build": true,
+      "special_pair_names": [
+        "dragonfly_gold_upper",
+        "dragonfly_navy_mark",
+        "dragonfly_pink_sole",
+        "dragonfly_cream_heel",
+        "dragonfly_dark_spikes"
+      ],
+      "only_changed_object": 25026
+    }
+  }
+}

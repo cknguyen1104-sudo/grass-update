@@ -1,0 +1,51 @@
+{
+  "unchanged_from_approved_grass_build": {
+    ".gitattributes": "78b1ffd96f5a3b03739a770c0eb6c006e7a66e1946cf58f9fb35ecd9c52cd97a",
+    ".gitignore": "b5aa015f5e0e00b9eb3a22ad573a950f533078b432b937acaf4aaae2de80b729",
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "400xc/index.html": "2933abde2f9711bf94153edfda88d6f1cc9dbbb7344957f75bff51c4afdea053",
+    "600m/index.html": "3c695ac10a801dc1d022aede63ca1983e316025dbdf92cb228fa8dd3cff69e99",
+    "Build_v2-40w.loader.js": "86ea62283e54262ba471d7fccfd1af877ef7a09ec4d047afbd9ddbb6d315d169",
+    "README.txt": "94eb4ebb2076317b704f1788eb801403289cba86d66590f2320143b9c8ddab61",
+    "baseline-sha256.json": "02a10a7f5f2a615dba1ded64f907462a4fd2ea3f651462a9654ab21ab2a1b276",
+    "collision-check.json": "70578894f5623e58863c6c00637858693da70941118af355360456a99b1e31e8",
+    "event400xc.data": "c9b2d11e00a69429c016010cd8287d93553cc5ddad64b28fae30e2850041db12",
+    "event600-boxes.data": "f83ffa83025d4b9993457268dd9818054bf514fa72718b7392db9dfa5741db20",
+    "event600-no-bales.data": "17abe4fc544d7e7e98e32c007836d9fbf6f6ab36e50843f89f6fa894d44338be",
+    "event600.data": "f9be6b33aad65546188304afe58a42e787bdda074c14088fa37ffe223880795b",
+    "framework.js": "c1cf59c0463c963cda6ebe8b2767b2bb310d64032fdfd5b0e22c5503ba772626",
+    "game.data": "a00e1e7fbab517a24a3a2086551deba6123dc26194e30904770d22a946fad3cf",
+    "game.wasm": "31dc3a241e29dc69b165de28a419e23e50d30a90521c4e3e576ed6919e441581",
+    "geometry-check.json": "3cb7fe7cb4daf53eb6a0b3392a9c70e9cc076f9ad33fccec5de20ad22820dcd9",
+    "grass-check.json": "9eaac597270de550474681061787763397689de8138c91da87821c16e91d88d2",
+    "index.html": "41b12766483889d48c32dae685dc8c6fff15248472b781281891c449ee47566b",
+    "launch.py": "983a0997cb509fd9ee661838816ffe29312e9a7b0e5c6f67c57363590a23727e",
+    "mobile.css": "4384f59e2ed42b4817df12ced6514f30c9a13aa9603fb8a4737a78a0b4d10721",
+    "mobile.js": "658fafd02ff64a103edc844038160d924574db62d15c8aa50c4e7e235433bb80",
+    "native400xc.wasm": "15bb37b278ee06b4091e759858621f1454fdd623ca5d50c61446c7daea55015f",
+    "native600-no-bales.wasm": "7b3472dac2d4ba102936b8d3abf637e348c5ffbf3bbc4e0e38a8b2c18d7482f1",
+    "native600.wasm": "a5e2f91a4f0b41c2ec1adffccc1fc21cb7f30ef517d79c3e702d0491124bb5ee",
+    "obstacle-check.json": "07046041edc1feef2c53e7206c8247f3e0ee46a56f23ddfb028e760cf0742c8e",
+    "start.bat": "b5bbc82dbf08bfb9c814f54c6d789dec9e61c6c347a55f80796ae84bc9536067",
+    "xc-check.json": "cb2b6790eed90be4c1c811b53f5a5894e57a3ee253161d745683a9eea2ca5acb"
+  },
+  "menu_only_changes": [
+    "combined.data",
+    "combined.wasm",
+    "original/index.html"
+  ],
+  "native_menu_callbacks": {
+    "600m run": 99,
+    "400m XC": 100
+  },
+  "live_gameplay_tested": false,
+  "documentation_changes": [
+    "README.md",
+    "tools/verify.py"
+  ],
+  "new_menu_sha256": {
+    "combined.data": "97a227e8bfc99c8adcabc1269ff4ab8eaed2409b9db339edd988877864dcb43b",
+    "combined.wasm": "7f520084a248442986b4e9dd0a3cf60780cb5ab182f35d7d2d3509885f2366b0",
+    "original/index.html": "505b4dca3191c3a022fa0159dfe94f88bc6dca8b414c9c74a95d01f1b7fc70eb"
+  }
+}
